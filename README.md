@@ -1,7 +1,7 @@
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
 |CSVQConnect   | [link ](https://github.com/Sakil786/CSVQConnect "link ") |
-| AI_VIRTUAL_ASSISTANT  | [[link](https://github.com/Sakil786/AI_VIRTUAL_ASSISTANT "link")|
+| AI_VIRTUAL_ASSISTANT  | [link](https://github.com/Sakil786/AI_VIRTUAL_ASSISTANT "link")|
 |  DocuBotMultiPDFConversationalAssistant | [link](https://github.com/Sakil786/DocuBotMultiPDFConversationalAssistant "link")  |
 |  autogpt |  [link ](https://github.com/Sakil786/autogpt "link ")|
 |  meta_llama_2finetuned_text_generation_summarization | [link](https://github.com/Sakil786/-meta_llama_2finetuned_text_generation_summarization "link")  |
