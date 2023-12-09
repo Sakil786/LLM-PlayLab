@@ -13,3 +13,4 @@
 | Text_summarization_using_GPT-J|[link](https://github.com/Sakil786/Text_summarization_using_GPT-J "link")|
 | codllama  | [ link](https://github.com/Sakil786/codllama " link") |
 | Image_to_text_using_LLaVA  | [ link](https://github.com/Sakil786/Image_to_text_using_LLaVA/tree/main " link") |
+| Tabular_data_using_llamaindex  | [ link](https://github.com/Sakil786/Tabular_data_using_llamaindex " link") |
