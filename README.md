@@ -15,3 +15,4 @@
 | Image_to_text_using_LLaVA  | [ link](https://github.com/Sakil786/Image_to_text_using_LLaVA/tree/main " link") |
 | Tabular_data_using_llamaindex  | [ link](https://github.com/Sakil786/Tabular_data_using_llamaindex " link") |
 | nextword_sentence_prediction  | [ link](https://github.com/Sakil786/nextword_sentence_prediction " link") |
+| Text-Generation-using-DeciLM-7B-instruct  | [ link](https://github.com/Sakil786/Text-Generation-using-DeciLM-7B-instruct " link") |
