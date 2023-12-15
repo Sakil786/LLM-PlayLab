@@ -17,3 +17,4 @@
 | nextword_sentence_prediction  | [ link](https://github.com/Sakil786/nextword_sentence_prediction " link") |
 | Text-Generation-using-DeciLM-7B-instruct  | [ link](https://github.com/Sakil786/Text-Generation-using-DeciLM-7B-instruct " link") |
 | Gemini-blog-creation  | [ link](https://github.com/Sakil786/Gemini-blog-creation/tree/main " link") |
+| Prepare_holiday_cards_with_Gemini_and_Sheets  | [ link](https://github.com/Sakil786/Prepare_holiday_cards_with_Gemini_and_Sheets/tree/main " link") |
