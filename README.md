@@ -20,3 +20,4 @@
 | Prepare_holiday_cards_with_Gemini_and_Sheets  | [ link](https://github.com/Sakil786/Prepare_holiday_cards_with_Gemini_and_Sheets/tree/main " link") |
 | Code-Generattion_using_phi2_llm  | [ link](https://github.com/Sakil786/Code-Generattion_using_phi2_llm " link") |
 | RAG-USING-GEMINI  | [ link](https://github.com/Sakil786/RAG-USING-GEMINI " link") |
+| Resturant-Recommendation-Multi-Modal-RAG-using-Gemini  | [ link](https://github.com/Sakil786/Resturant-Recommendation-Multi-Modal-RAG-using-Gemini " link") |
