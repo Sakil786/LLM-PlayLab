@@ -21,3 +21,4 @@
 | Code-Generattion_using_phi2_llm  | [ link](https://github.com/Sakil786/Code-Generattion_using_phi2_llm " link") |
 | RAG-USING-GEMINI  | [ link](https://github.com/Sakil786/RAG-USING-GEMINI " link") |
 | Resturant-Recommendation-Multi-Modal-RAG-using-Gemini  | [ link](https://github.com/Sakil786/Resturant-Recommendation-Multi-Modal-RAG-using-Gemini " link") |
+| slim-sentiment-tool  | [ link](https://github.com/Sakil786/slim-sentiment-tool " link") |
