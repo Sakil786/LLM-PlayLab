@@ -22,3 +22,8 @@
 | RAG-USING-GEMINI  | [ link](https://github.com/Sakil786/RAG-USING-GEMINI " link") |
 | Resturant-Recommendation-Multi-Modal-RAG-using-Gemini  | [ link](https://github.com/Sakil786/Resturant-Recommendation-Multi-Modal-RAG-using-Gemini " link") |
 | slim-sentiment-tool  | [ link](https://github.com/Sakil786/slim-sentiment-tool " link") |
+| Synthetic-Data-Generation-Using-LLM  | [ link](https://github.com/Sakil786/Corporate-Presentations-Synthetic-Data-Generation-Using-LLM " link") |
+| Architecture-for-building-a-Chat-Assistant | [ link](https://github.com/Sakil786/Design-an-Architecture-for-building-a-Chat-Assistant-for-an-ecommerce-platform " link") |
+| LLM-CHAT-ASSISTANT-WITH-DYNAMIC-CONTEXT-BASED-ON-QUERY | [ link](https://github.com/Sakil786/LLM-CHAT-ASSISTANT-WITH-DYNAMIC-CONTEXT-BASED-ON-QUERY " link") |
+| Text Classifier using LLM | [ link](https://github.com/Sakil786/AI-Powered-Text-Classifier-Harnessing-Large-Language-Models-for-Precise-Data-Categorization " link") |
+| Multiclass sentiment Analysis | [ link](https://github.com/Sakil786/multi-class-sentiment-analysis-model-using-LLM " link") |
