@@ -27,6 +27,7 @@
 | LLM-CHAT-ASSISTANT-WITH-DYNAMIC-CONTEXT-BASED-ON-QUERY | [ link](https://github.com/Sakil786/LLM-CHAT-ASSISTANT-WITH-DYNAMIC-CONTEXT-BASED-ON-QUERY " link") |
 | Text Classifier using LLM | [ link](https://github.com/Sakil786/AI-Powered-Text-Classifier-Harnessing-Large-Language-Models-for-Precise-Data-Categorization " link") |
 | Multiclass sentiment Analysis | [ link](https://github.com/Sakil786/multi-class-sentiment-analysis-model-using-LLM " link") |
+| Text-Generation-Using-GROQ | [ link](https://github.com/Sakil786/Text-Generation-Using-GROQ " link") |
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
