@@ -29,6 +29,7 @@
 | Multiclass sentiment Analysis | [ link](https://github.com/Sakil786/multi-class-sentiment-analysis-model-using-LLM " link") |
 | Text-Generation-Using-GROQ | [ link](https://github.com/Sakil786/Text-Generation-Using-GROQ " link") |
 | DataAgents | [ link](https://github.com/Sakil786/DataAgents " link") |
+| PandasQuery_tabular_data | [ link](https://github.com/Sakil786/PandasQuery_tabular_data " link") |
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
