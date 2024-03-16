@@ -30,6 +30,7 @@
 | Text-Generation-Using-GROQ | [ link](https://github.com/Sakil786/Text-Generation-Using-GROQ " link") |
 | DataAgents | [ link](https://github.com/Sakil786/DataAgents " link") |
 | PandasQuery_tabular_data | [ link](https://github.com/Sakil786/PandasQuery_tabular_data " link") |
+| Exploratory_Data_Analysis_using_LLM | [ link](https://github.com/Sakil786/Exploratory_Data_Analysis_using_LLM/tree/main " link") |
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
