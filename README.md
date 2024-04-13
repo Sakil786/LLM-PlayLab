@@ -32,6 +32,7 @@
 | PandasQuery_tabular_data | [ link](https://github.com/Sakil786/PandasQuery_tabular_data " link") |
 | Exploratory_Data_Analysis_using_LLM | [ link](https://github.com/Sakil786/Exploratory_Data_Analysis_using_LLM/tree/main " link") |
 | Text_generation_using_gemma_instruct | [ link](https://github.com/Sakil786/Text_generation_using_gemma_instruct/tree/main " link") |
+| Invoice-Extractor_using_gemini1.5pro | [ link](https://github.com/Sakil786/Invoice-Extractor_using_gemini1.5pro/tree/main " link") |
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
