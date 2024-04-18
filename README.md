@@ -1,5 +1,6 @@
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
+|RAG Using Llama 3   | [link ](https://github.com/Sakil786/RAG_using_Llama-3 "link ") |
 |CSVQConnect   | [link ](https://github.com/Sakil786/CSVQConnect "link ") |
 | AI_VIRTUAL_ASSISTANT  | [link](https://github.com/Sakil786/AI_VIRTUAL_ASSISTANT "link")|
 |  DocuBotMultiPDFConversationalAssistant | [link](https://github.com/Sakil786/DocuBotMultiPDFConversationalAssistant "link")  |
