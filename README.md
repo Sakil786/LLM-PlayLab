@@ -41,5 +41,10 @@
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
 |RAG_with_TLM   | [link ](https://github.com/Sakil786/RAG_with_TLM "link ") |
+
+## Generative AI On Cloud
+| LLM Projects  |Respository Link   |
+| :------------: | :------------: |
+|Artilcle-Generation-Using-Bedrock and AWS Lambda   | [link ](https://github.com/Sakil786/Artilcle-Generation-Using-Bedrock "link ") |
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
