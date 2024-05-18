@@ -36,6 +36,7 @@
 | Invoice-Extractor_using_gemini1.5pro | [ link](https://github.com/Sakil786/Invoice-Extractor_using_gemini1.5pro/tree/main " link") |
 | Unveiling-Insights-from-Audio_using_gemini1.5pro | [ link](https://github.com/Sakil786/Unveiling-Insights-from-Audio/tree/main " link") |
 | Llama3 | [ link](https://github.com/Sakil786/Llama3 " link") |
+| Image Captioning Using paligemma | [ link](https://github.com/Sakil786/Image-Captioning-using-paligemma/tree/main " link") |
 
 ## RAG With LlamaIndex
 | LLM Projects  |Respository Link   |
@@ -46,5 +47,7 @@
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
 |Artilcle-Generation-Using-Bedrock and AWS Lambda   | [link ](https://github.com/Sakil786/Artilcle-Generation-Using-Bedrock "link ") |
+
+
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
