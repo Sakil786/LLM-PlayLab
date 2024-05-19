@@ -37,6 +37,8 @@
 | Unveiling-Insights-from-Audio_using_gemini1.5pro | [ link](https://github.com/Sakil786/Unveiling-Insights-from-Audio/tree/main " link") |
 | Llama3 | [ link](https://github.com/Sakil786/Llama3 " link") |
 | Image Captioning Using paligemma | [ link](https://github.com/Sakil786/Image-Captioning-using-paligemma/tree/main " link") |
+| Hugging-Face-x-LangChain | [ link](https://github.com/Sakil786/Hugging-Face-x-LangChain " link") |
+
 
 ## RAG With LlamaIndex
 | LLM Projects  |Respository Link   |
