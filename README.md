@@ -51,6 +51,11 @@
 | :------------: | :------------: |
 |Artilcle-Generation-Using-Bedrock and AWS Lambda   | [link ](https://github.com/Sakil786/Artilcle-Generation-Using-Bedrock "link ") |
 
+## Time-series Forecasting with LLM
+| LLM Projects  |Respository Link   |
+| :------------: | :------------: |
+|Gold Price Forecasting by using timesfm-1.0-200m | [link ](https://github.com/Sakil786/Time-Series-Forecasting-Using-LLM "link ") |
+
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
