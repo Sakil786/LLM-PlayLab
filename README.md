@@ -56,6 +56,11 @@
 | :------------: | :------------: |
 |Gold Price Forecasting by using timesfm-1.0-200m | [link ](https://github.com/Sakil786/Time-Series-Forecasting-Using-LLM "link ") |
 
+## Generative AI Crash Course
+| LLM Projects  |Respository Link   |
+| :------------: | :------------: |
+|Generative AI Crash Course_Session 02 | [link ](https://github.com/Sakil786/Generative-AI-Crash-Course_Session-02/tree/main "link ") |
+
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
