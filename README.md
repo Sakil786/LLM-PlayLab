@@ -39,6 +39,7 @@
 | Image Captioning Using paligemma | [ link](https://github.com/Sakil786/Image-Captioning-using-paligemma/tree/main " link") |
 | Hugging-Face-x-LangChain | [ link](https://github.com/Sakil786/Hugging-Face-x-LangChain " link") |
 | Text_Generation_using_Mistral-7B-Instruct-v0.3 | [ link](https://github.com/Sakil786/Text_Generation_using_Mistral-7B-Instruct-v0.3/tree/main " link") |
+| Text_generation_neo_7b | [ link](https://github.com/Sakil786/Text_generation_m-a-p-neo_7b " link") |
 
 
 ## RAG With LlamaIndex
