@@ -46,6 +46,7 @@
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
 |RAG_with_TLM   | [link ](https://github.com/Sakil786/RAG_with_TLM "link ") |
+|RAG_Using_llama2_llamaindex   | [link ](https://github.com/Sakil786/RAG_Using_llama2_llamaindex "link ") |
 
 ## Generative AI On Cloud
 | LLM Projects  |Respository Link   |
