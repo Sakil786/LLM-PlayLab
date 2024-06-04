@@ -59,6 +59,7 @@
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
 |Gold Price Forecasting by using timesfm-1.0-200m | [link ](https://github.com/Sakil786/Time-Series-Forecasting-Using-LLM "link ") |
+|forecasting-using-TimeGPT | [link ](https://github.com/Sakil786/forecasting-using-TimeGPT/tree/main "link ") |
 
 ## Generative AI Crash Course
 | LLM Projects  |Respository Link   |
