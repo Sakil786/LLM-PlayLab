@@ -61,6 +61,11 @@
 |Gold Price Forecasting by using timesfm-1.0-200m | [link ](https://github.com/Sakil786/Time-Series-Forecasting-Using-LLM "link ") |
 |forecasting-using-TimeGPT | [link ](https://github.com/Sakil786/forecasting-using-TimeGPT/tree/main "link ") |
 
+## Generative AI Inferencing
+| LLM Projects  |Respository Link   |
+| :------------: | :------------: |
+|Inferencing_with_Nvidia_NIM | [link ](https://github.com/Sakil786/Inferencing_with_Nvidia_NIM/tree/main "link ") |
+
 ## Generative AI Crash Course
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
