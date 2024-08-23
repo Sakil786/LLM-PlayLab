@@ -81,6 +81,7 @@
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
 |chatbot_using_LangGraph   | [link ](https://github.com/Sakil786/chatbot_using_LangGraph "link ") |
+|RAG_using_LangGraph   | [link ](https://github.com/Sakil786/RAG_USING_LANGGRAPH "link ") |
 
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
