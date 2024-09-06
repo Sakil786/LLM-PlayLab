@@ -83,6 +83,9 @@
 |chatbot_using_LangGraph   | [link ](https://github.com/Sakil786/chatbot_using_LangGraph "link ") |
 |RAG_using_LangGraph   | [link ](https://github.com/Sakil786/RAG_USING_LANGGRAPH "link ") |
 
-
+## GITHUB MODEL
+| LLM Projects  |Respository Link   |
+| :------------: | :------------: |
+|Github Model   | [link ](https://github.com/Sakil786/githubModel "link ") |
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
