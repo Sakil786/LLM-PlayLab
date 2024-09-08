@@ -87,5 +87,11 @@
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
 |Github Model   | [link ](https://github.com/Sakil786/githubModel "link ") |
+
+## Crawl4ai  for Webscrapping
+| LLM Projects  |Respository Link   |
+| :------------: | :------------: |
+|Crawl4aiforWebscrapping   | [link ](https://github.com/Sakil786/Crawl4aiforWebscrapping "link ") |
+
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
