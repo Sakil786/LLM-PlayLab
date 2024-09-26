@@ -55,6 +55,7 @@
 |RAG_Using_llama2_llamaindex   | [link ](https://github.com/Sakil786/RAG_Using_llama2_llamaindex "link ") |
 |RAG_Using_Mistral_7b_llamaindex   | [link ](https://github.com/Sakil786/RAG_Using_Mistral_7b_llamaindex "link ") |
 |RAG_zephyr_7b_llamaindex   | [link ](https://github.com/Sakil786/RAG_zephyr_7b "link ") |
+|llm-evaluation | [link ](https://github.com/Sakil786/llm-evaluation "link ") |
 
 ## Generative AI On Cloud
 | LLM Projects  |Respository Link   |
