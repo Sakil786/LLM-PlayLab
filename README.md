@@ -88,10 +88,11 @@
 |City Temperature Agent   | [link ](https://github.com/Sakil786/City-Temperature-Agent "link ") |
 |Content-Generator   | [link ](https://github.com/Sakil786/Content-Generator "link ") |
 
-## phidata
+## phidata(agno)
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
 |Study Scout Agent | [link ](https://github.com/Sakil786/Study-Scout-Agent "link ") |
+|automotive_research_analyst | [link ](https://github.com/Sakil786/automotive_research_analyst "link ") |
 
 ## GITHUB MODEL
 | LLM Projects  |Respository Link   |
