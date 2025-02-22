@@ -1,6 +1,7 @@
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
 |data_analysis_agent   | [link ](https://github.com/Sakil786/data_analysis_agent "link ") |
+|Query_on_structure_data   | [link ](https://github.com/Sakil786/Query_on_structure_data "link ") |
 |Llama 3.1   | [link ](https://github.com/Sakil786/Llama-3.1 "link ") |
 |RAG Using Llama 3   | [link ](https://github.com/Sakil786/RAG_using_Llama-3 "link ") |
 |CSVQConnect   | [link ](https://github.com/Sakil786/CSVQConnect "link ") |
