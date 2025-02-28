@@ -107,5 +107,10 @@
 | :------------: | :------------: |
 |Crawl4aiforWebscrapping   | [link ](https://github.com/Sakil786/Crawl4aiforWebscrapping "link ") |
 
+## LLM EVALUATION
+| LLM Projects  |Respository Link   |
+| :------------: | :------------: |
+|LLM EVALUATION | [link ](https://github.com/Sakil786/LLM_EVALUATION"link ") |
+
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
