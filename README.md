@@ -61,6 +61,11 @@
 |llm-evaluation | [link ](https://github.com/Sakil786/llm-evaluation "link ") |
 |Parse Selected Pages | [link ](https://github.com/Sakil786/Parse-Selected-Pages "link ") |
 
+## RAG With LangChain
+| LLM Projects  |Respository Link   |
+| :------------: | :------------: |
+|Advanced_RAG-Re-ranking_implementation   | [link ](https://github.com/Sakil786/Advanced_RAG-Re-ranking_implementation- "link ") |
+
 ## Generative AI On Cloud
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
