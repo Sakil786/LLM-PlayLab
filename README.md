@@ -118,6 +118,8 @@
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
 |LLM EVALUATION | [link ](https://github.com/Sakil786/LLM_EVALUATION "link ") |
+|LLM-as-a-Judge-evaluating-text-summarization-performance | [link ](https://github.com/Sakil786/LLM-as-a-Judge-evaluating-text-summarization-performance "link ") |
+
 
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
