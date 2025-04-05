@@ -100,6 +100,7 @@
 ## phidata(agno)
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
+|gemini_finance_agent | [link ](https://github.com/Sakil786/gemini_finance_agent "link ") |
 |Study Scout Agent | [link ](https://github.com/Sakil786/Study-Scout-Agent "link ") |
 |automotive_research_analyst | [link ](https://github.com/Sakil786/automotive_research_analyst "link ") |
 |movie-recommender_using_LLM | [link ](https://github.com/Sakil786/movie-recommender_using_LLM "link ") |
