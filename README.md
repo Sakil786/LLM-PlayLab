@@ -100,6 +100,7 @@
 ## phidata(agno)
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
+|llama4_trip_planning_agent | [link ](https://github.com/Sakil786/llama4_trip_planning_agent "link ") |
 |gemini_finance_agent | [link ](https://github.com/Sakil786/gemini_finance_agent "link ") |
 |Study Scout Agent | [link ](https://github.com/Sakil786/Study-Scout-Agent "link ") |
 |automotive_research_analyst | [link ](https://github.com/Sakil786/automotive_research_analyst "link ") |
