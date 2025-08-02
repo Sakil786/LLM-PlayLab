@@ -111,6 +111,7 @@
 | :------------: | :------------: |
 |airbnb_mcp | [link ](https://github.com/Sakil786/airbnb_mcp "link ") |
 |weather_mcp | [link ](https://github.com/Sakil786/WeatherMCP "link ") |
+|linkedIn_scraper_MCP | [link ](https://github.com/Sakil786/linkedIn_scraper_MCP/tree/main "link ") |
 
 ## GITHUB MODEL
 | LLM Projects  |Respository Link   |
