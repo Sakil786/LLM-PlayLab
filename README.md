@@ -110,6 +110,7 @@
 | LLM Projects  |Respository Link   |
 | :------------: | :------------: |
 |airbnb_mcp | [link ](https://github.com/Sakil786/airbnb_mcp "link ") |
+|weather_mcp | [link ](https://github.com/Sakil786/WeatherMCP "link ") |
 
 ## GITHUB MODEL
 | LLM Projects  |Respository Link   |
